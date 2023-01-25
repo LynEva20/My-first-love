@@ -26,5 +26,3 @@ Install
 
 # DayThree
 **Introduction to Git**
-Evalyn
-    :a beautiful girl
