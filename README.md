@@ -22,7 +22,8 @@ Install
 - How can I create, copy, and delete files and directories?
 - How can I edit files?
 
-
-
+### Reading Materials
+- [capentries resoursces](https://winfrednyoroka.github.io/2023_01_23_Laikipia_Uni_online/)
+- 
 # DayThree
 **Introduction to Git**
