@@ -1,4 +1,4 @@
-# My-first-love
+# My-first-text
 My first repository to store and write
 
 I will write on The Bioinformatics workshop we have had from 23rd-27th January 2023
