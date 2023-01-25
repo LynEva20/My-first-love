@@ -28,10 +28,10 @@ Install
 # DayThree
 **Introduction to Git**
 
-[Zendaya]![dp2](https://user-images.githubusercontent.com/123539650/214541025-bc61adce-a89e-46cc-adc9-56c588c4a5e6.jpg)
+![Zendaya](https://user-images.githubusercontent.com/123539650/214541025-bc61adce-a89e-46cc-adc9-56c588c4a5e6.jpg)
 
 code `912745`
-![image](https://user-images.githubusercontent.com/123539650/214553326-63c0a305-855a-4fa4-bfe1-f2cd320ea9af.png)
+![Tom & Jerry](https://user-images.githubusercontent.com/123539650/214553326-63c0a305-855a-4fa4-bfe1-f2cd320ea9af.png)
 
 
 
