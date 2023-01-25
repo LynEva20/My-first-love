@@ -1,5 +1,5 @@
 # My-first-text
-My first repository to store and write
+My first repository to store and write 🥰
 
 I will write on The Bioinformatics workshop we have had from 23rd-27th January 2023
 
@@ -12,7 +12,7 @@ Install
 
 # Day Two
 **Introduction to commandline**
-1. Introducing the Shell	
+1. Introducing the Shell 🥰	
 - What is a command shell and why would I use one?
 2. Navigating Files and Directories	
 - How can I move around on my computer?
