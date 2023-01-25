@@ -28,7 +28,7 @@ Install
 # DayThree
 **Introduction to Git**
 
-[Zendaya](![dp2](https://user-images.githubusercontent.com/123539650/214541025-bc61adce-a89e-46cc-adc9-56c588c4a5e6.jpg)
+[Zendaya]![dp2](https://user-images.githubusercontent.com/123539650/214541025-bc61adce-a89e-46cc-adc9-56c588c4a5e6.jpg)
 
 code `912745`
 
