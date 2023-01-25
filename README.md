@@ -24,7 +24,7 @@ Install
 
 ### Reading Materials
 - [capentries resoursces](https://winfrednyoroka.github.io/2023_01_23_Laikipia_Uni_online/)
-- 
+- [mylink]( https://swcarpentry.github.io/git-novice/)
 # DayThree
 **Introduction to Git**
 ![alt text](![dp2](https://user-images.githubusercontent.com/123539650/214541025-bc61adce-a89e-46cc-adc9-56c588c4a5e6.jpg)
